@@ -1,0 +1,15 @@
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\apiClient.exe
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\apiClient.deps.json
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\apiClient.runtimeconfig.json
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\apiClient.runtimeconfig.dev.json
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\apiClient.dll
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\apiClient.pdb
+D:\Projects\APIDemo\apiClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.csprojAssemblyReference.cache
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.AssemblyInfoInputs.cache
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.AssemblyInfo.cs
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.csproj.CoreCompileInputs.cache
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.csproj.CopyComplete
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.dll
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.pdb
+D:\Projects\APIDemo\apiClient\obj\Debug\netcoreapp3.1\apiClient.genruntimeconfig.cache

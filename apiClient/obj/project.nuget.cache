@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOKw6OM2XRy9em375tEEcHBJjDb1baz9+4vUYcK2V21MZeF2aJIRWiF9CnTJlh1wfk8u91Qf6nHeUozlCotoxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\APIDemo\\apiClient\\apiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcbo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
